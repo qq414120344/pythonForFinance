@@ -10,7 +10,5 @@ def solution():
             result.append(str(i))
     print(",".join(result))
 
-print("aaa")
-
 solution()
             
